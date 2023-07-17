@@ -1,0 +1,40 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+
+img{
+  margin-top: 5cqi;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+
+.all{
+  display: flex;
+  gap: 90px;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+}
+
+h2,h3{
+  font-size: 50px;
+}
+
+li{
+  margin: 10px;
+  padding: 5px;
+  margin-left: 30px;
+  font-weight: 500;
+}
+
+button{
+  padding: 10px;
+  color: #fff;
+  font-size: 18px;
+  background-color: rgb(0, 98, 255);
+  border-radius: 8px;
+}
